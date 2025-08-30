@@ -1,5 +1,4 @@
 # :earth_americas: Overview
-![map](https://github.com/kojomensahonums/TMP2_Freight_Border_Analysis/blob/master/united-states-map-with-canada-and-mexico.png)
 This project analyzes freight transportation data provided by the Bureau of Transportation Statistics (BTS) to uncover insights related to the efficiency, safety, and environmental impacts of goods movement across North America.
 The study focuses on major trade flows between the USA, Canada, and Mexico, covering various modes of transport: road, rail, air, and water.
 Through this analysis, the project aims to answer questions such as:
